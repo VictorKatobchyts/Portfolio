@@ -18,6 +18,7 @@ I began to be fond of music recently(about 5 years ago) and I prefer such genres
 It's one of my favorite interst. I often watch all events which are taking place there. I pay special attention to such cybersports disciplines as Dota 2, Counter Strike: Global Offensive and League of Legend.
 #### Computer Games
 I prefer perspective  online games such as Legue of legend and sometimes MMORPG like Aion or Tera.
-
+#### CodeWars Tasks
+This is my profile on codewars.com https://www.codewars.com/users/VictorKatobchyts
 
 
